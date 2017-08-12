@@ -1,5 +1,7 @@
 ### Copyright
 
-The YouTube logo is © YouTube 2017. Used under the guidelines for utilizing YouTube brand resources.
+All logos are © their respective brands/creators.
 
-The Twitter logo is © Twitter 2017. Used under the guidelines for utilizing Twitter brand resources.
+Used under the respective guidelines for utilizing brand resources.
+
+The GitHub and email logos are based on [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min).
